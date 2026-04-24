@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChangeJpgDate.Tests/ChangeJpgDate.Tests.csproj" />
+  <Project Path="ChangeJpgDate/ChangeJpgDate.csproj" />
+</Solution>

@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ChangeJpgDate",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/ChangeJpgDate/bin/Debug/net9.0/ChangeJpgDate.dll",
+            "args": ["C:\\path\\to\\your\\photos"],
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "build",
+            "console": "integratedTerminal"
+        }
+    ]
+}
