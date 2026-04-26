@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "program": "${workspaceFolder}/ChangeJpgDate/bin/Debug/net9.0/ChangeJpgDate.dll",
-            "args": ["C:\\path\\to\\your\\photos"],
+            "args": ["D:\\work_mr\\work\\github\\change_jpg_date\\jpgs"],
             "cwd": "${workspaceFolder}",
             "preLaunchTask": "build",
             "console": "integratedTerminal"
