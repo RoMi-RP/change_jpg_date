@@ -22,6 +22,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+[Jj]pgs/
 
 # .NET Core
 project.lock.json
